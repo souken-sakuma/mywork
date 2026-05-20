@@ -1,1 +1,1 @@
-Hello git
+paizaラーニングをやりながら動作確認
